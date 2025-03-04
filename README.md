@@ -2,7 +2,7 @@
 
 Menasria Racim, Cavina Théo
 
-Ce repo contient l'ensemble des script utilisés lors de l'étude des deux dataset, FEIS et HablaImaginada. Les deux dataset ont été étudié séparemment et possède leur propre sous dossier et son indépendant. 
+Ce repo contient l'ensemble des script utilisés lors de l'étude des deux dataset, FEIS et HablaImaginada. Les deux dataset ont été étudiés séparemment,possèdent chacun leur propre sous dossier et sont indépendants. 
 
 ### Pour FEIS : 
 * **model** : contient les scripts liés à la conception et à l'entrainement des modèles. 
